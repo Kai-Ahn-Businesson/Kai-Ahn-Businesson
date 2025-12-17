@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 💻 I recently bought a new MacBook... Even with a 67GB gpt-oss:120b, it still flies...
 [![M4Max Macbook 128GB Unify Memory](https://www.passmark.com/baselines/V10/images/510176361284.png)](https://www.passmark.com/baselines/V11/display.php?id=510176361284)
-
+- The M3 Mac Studio can run the 670B Parametric Deepseek R1 model with its 512GB unified memory.
+- [![M3Ultra MacStudio 512GB Unify Memory](https://www.passmark.com/baselines/V10/images/510957846998.png)](https://www.passmark.com/baselines/V11/display.php?id=510957846998)
 <!---
 Kai-Ahn-Businesson/Kai-Ahn-Businesson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
